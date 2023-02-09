@@ -1,0 +1,41 @@
+---
+title: "HW 1"
+author: "Name here"
+output: pdf_document
+---
+
+Part of this class will be a project that is worth 20% of your final grade. For the project, you can work in groups of up to size 2. We will cover linear models and GLMs in this class, so feel free to ask big questions from interesting data sets.
+
+
+### 1.  Do you plan to work with a partner? If so, who? (1 pt)
+
+### 2. Describe the dataset that you'd like to work with. If it is publicly available provide the link here. (1 pt)
+
+If you need help finding datasets, here are a few resources:
+
+- [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets)
+- [https://data.gov](https://data.gov)
+- [https://www.sciencedirect.com/journal/data-in-brief](https://www.sciencedirect.com/journal/data-in-brief)
+- [https://datadryad.org/search](https://datadryad.org/search)
+- [https://zenodo.org](https://zenodo.org)
+
+### 3. What research question to you hope to answer? Note we will return to this in more detail soon. (1 pt)
+
+
+---
+
+The next set of questions pertain to the structure of the course.
+
+### 4. In terms of work load, this class is more, less, or about the same as similar courses? (1 pt)
+
+
+### 5. So far, has your learning in this class been greater, less, or about the same as similar courses? (1 pt)
+
+### 6. So far, has your enjoyment in this class been greater, less, or about the same as similar courses? (1 pt)
+
+### 7. What is the best thing about this course? (1 pt)
+
+### 8. What about this course could be improved? (1 pt)
+
+### 9. How is the flipped class, with online lectures and in class activities, working for you? (1 pt)
+
