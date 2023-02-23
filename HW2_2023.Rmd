@@ -1,0 +1,54 @@
+---
+title: |
+    | STAT 491: HW 2
+    | Name:
+output: pdf_document 
+---
+
+```{r setup, include=FALSE}
+library(knitr)
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+You have been hired as a data scientist by the Yellowstone Club. Your favorite activity is celebrity spotting and you have decided to estimate the probability of spotting a celebrity during a day in the Big Sky area.
+
+# 1. Priors (8 points)
+
+## a. (4 points)
+State and defend a prior for this situation. Make sure to use notation that clearly defines parameters and values.
+\vfill
+
+## b. (3 points)
+Discuss your philosophy for choosing prior distributions.
+\vfill
+
+
+\newpage
+# 2. Sampling Model (5 points)
+
+## a. (2 points)
+What is a probability model and why is it necessary in Bayesian statistics?
+\vfill
+
+## b. (3 points)
+Write out the probability model for this problem. You can assume you work $N$ days and observe celebrities on $z$ days.
+\vfill
+
+# 3. Posterior (14 points)
+
+## a. (4 points)
+It turns out that your office overlooks the golf course at the Yellowstone Club. After working for 21 days, you have spotted celebrities (including Justin Timberlake and Tom Brady) on 14 of those days. What is the posterior distribution for seeing celebrities?
+\vfill
+\newpage
+
+## b. (2 points)
+Given this posterior distribution in part 3a, what is the posterior mean for the probability of seeing a celebrity? You do not need to simplify this expression.
+\vfill
+
+## c. (4 points)
+After running JAGS and using the `coda()` package in R, your posterior Highest Density Interval (HDI) is (.53,.75). Assume your aunt is big fan of Justin Timberlake (and all things celebrity), describe what the posterior HDI means to her.
+\vfill
+
+## d. (4 points)
+After hearing your explanation, your aunt remembers her Intro to Stat course and asks "So this posterior HDI is just a confidence interval, right?" Respond to your aunt's question with a yes or no and an explanation of your answer.
+\vfill
