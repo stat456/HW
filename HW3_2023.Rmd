@@ -1,0 +1,42 @@
+---
+title: |
+    | STAT 491: HW 2
+    | Name:
+output: pdf_document 
+---
+
+```{r setup, include=FALSE}
+library(knitr)
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Using the dataset for your project, complete the following tasks. Note this mirrors the second question on the takehome exam.
+
+#### A. (4 points)
+
+Write a concise statement detailing your research question. This should be no more than two or three sentences.
+
+#### B. (4 points)
+
+Create a data visualization that helps inform your research question.
+
+#### C. (4 points)
+
+Write out a statistical model to explore your research question.
+
+#### D. (4 points)
+
+Identify the parameters from the model in 2B and justify prior distributions.
+
+
+
+#### E. (4 points)
+
+Write JAGS code to fit this model
+
+
+#### F. (4 points)
+
+Summarize your parameters in the model.
+
+
