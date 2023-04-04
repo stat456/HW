@@ -1,0 +1,45 @@
+---
+title: |
+    | STAT 491: HW 4
+    | Name:
+output: pdf_document 
+---
+
+```{r setup, include=FALSE}
+library(knitr)
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+For this assignment read the [ASA Statement on P-values](https://www.tandfonline.com/doi/epdf/10.1080/00031305.2016.1154108?needAccess=true&role=button) and the [ASA's guidance to Move to a World Beyond p <.05](https://www.tandfonline.com/doi/epdf/10.1080/00031305.2019.1583913?needAccess=true&role=button)
+
+
+#### A. (6 points)
+
+In your own words, summarize the 6 principles of p-values.
+
+#### B. (2 points)
+
+Which of these principles do not apply to Bayesian inference
+
+
+#### C. (2 points)
+
+Why do the authors suggest avoiding "Statistically Significant"
+
+#### D. (2 points)
+
+What does the acronym ATOM stand for?
+
+#### D. (4 points)
+
+In your own words, summarize each letter in ATOM.
+#### E. (4 points)
+
+Write JAGS code to fit this model
+
+
+#### F. (4 points)
+
+Summarize your parameters in the model.
+
+
